@@ -1,1 +1,5 @@
-# ex10
+print("there are two roots about x**2+2x-5=0")
+a=((-2+(2**2+(4*5*1))**0.5)/2*1)
+b=((-2-(2**2+(4*5*1))**0.5)/2*1)
+print(a)
+print(b)
